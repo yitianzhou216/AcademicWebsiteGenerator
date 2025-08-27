@@ -1,0 +1,10 @@
+{
+  "projects": [
+    {
+      "rootDirectory": "acadgen-ui",
+      "framework": "nextjs",
+      "buildCommand": "npm run build",
+      "outputDirectory": ".next"
+    }
+  ]
+}
